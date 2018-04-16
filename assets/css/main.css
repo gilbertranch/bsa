@@ -1708,7 +1708,8 @@
 	}
 
 	p {
-		margin: 0 0 2rem 0;
+		margin: 0 0 0.75rem 0;
+		font-size: 0.75rem;
 	}
 
 		p.major {
@@ -1818,7 +1819,7 @@
 	@media screen and (max-width: 736px) {
 
 		p.major {
-			font-size: 1.1rem;
+			font-size: 1.0rem;
 		}
 
 		h1 {
@@ -3259,7 +3260,7 @@
 	}
 
 		.banner.style1 .content {
-			padding: 7rem 7rem 5rem 7rem ;
+			padding: 3rem 3rem 1rem 3rem ;
 			-moz-align-self: center;
 			-webkit-align-self: center;
 			-ms-align-self: center;
